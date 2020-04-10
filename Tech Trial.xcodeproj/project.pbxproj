@@ -13,6 +13,7 @@
 		9F35480024405835004A46EB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F3547FE24405835004A46EB /* Main.storyboard */; };
 		9F35480224405836004A46EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9F35480124405836004A46EB /* Assets.xcassets */; };
 		9F35480524405836004A46EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F35480324405836004A46EB /* LaunchScreen.storyboard */; };
+		9F35480D24405ECC004A46EB /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F35480C24405ECC004A46EB /* RegisterViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9F35480124405836004A46EB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9F35480424405836004A46EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9F35480624405836004A46EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9F35480C24405ECC004A46EB /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				9F35480124405836004A46EB /* Assets.xcassets */,
 				9F35480324405836004A46EB /* LaunchScreen.storyboard */,
 				9F35480624405836004A46EB /* Info.plist */,
+				9F35480C24405ECC004A46EB /* RegisterViewController.swift */,
 			);
 			path = "Tech Trial";
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				9F3547FD24405835004A46EB /* ViewController.swift in Sources */,
 				9F3547F924405835004A46EB /* AppDelegate.swift in Sources */,
 				9F3547FB24405835004A46EB /* SceneDelegate.swift in Sources */,
+				9F35480D24405ECC004A46EB /* RegisterViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
